@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 hello1234
+=======
+hello
+>>>>>>> feff53a24a3dacb2aebf19f46138c6711c5dbca1
